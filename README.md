@@ -23,6 +23,10 @@
   <div>
     <a href="https://www.linkedin.com/in/VictorC1011/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
    </div>
+   
+  <div>
+    <a href="https://codier.io/@victorc1011"><img src=https://i.imgur.com/kTznhmM.png></a>
+   </div>
   
   
    ![Snake animation](https://github.com/JoaoFreitasGab/JoaoFreitasGab/blob/output/github-contribution-grid-snake.svg)
